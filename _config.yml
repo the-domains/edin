@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.0787234
+color:
+  saturation: 0.6351943
+  lightness: 0.05252193
+  brandStrength: 0.7891425
+  rhythmicContrast: 0.596233
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Edin
