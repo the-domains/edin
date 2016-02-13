@@ -1,14 +1,28 @@
+name: Edin
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.0787234
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6351943
-  lightness: 0.05252193
-  brandStrength: 0.7891425
-  rhythmicContrast: 0.596233
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: Edin
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.6351943
+  rhythmicContrast: 0.596233
+purpose: []
