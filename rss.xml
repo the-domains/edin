@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Edin]]></title>
         <description><![CDATA[Edin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 15:29:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 15:30:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Duett Adell & Alma. Mer Jul i bra tempo. ]]></title>
+            <description><![CDATA[<article><h1>Duett Adell & Alma. Mer Jul i bra tempo. </h1><p>Duett Adell & Alma. Mer Jul i bra tempo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/136cf43a0f5c06b45b25c649c1740227128c8d9f.png"></article>]]></description>
+            <link>https://thegrid.ai/edin/duett-adell-and-alma-mer-jul-i-bra-tempo/index.html</link>
+            <guid isPermaLink="false">7b3d52bc-05e4-474c-b061-9f3820a42b96</guid>
+            <pubDate>Sat, 13 Feb 2016 15:29:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Påväg till skolan för att göra vänners ben något skakiga.]]></title>
             <description><![CDATA[<article><h1>Påväg till skolan för att göra vänners ben något skakiga.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/838d61da484347fb2d5c141329453c998d7e04c1.png"></article>]]></description>
-            <link>undefinedpavag-till-skolan-for-att-gora-vanners-ben-nagot-skakiga/index.html</link>
+            <link>https://thegrid.ai/edin/pavag-till-skolan-for-att-gora-vanners-ben-nagot-skakiga/index.html</link>
             <guid isPermaLink="false">99b7d72d-2994-4bf1-8027-fc3a8642488e</guid>
             <pubDate>Sat, 13 Feb 2016 15:29:40 GMT</pubDate>
         </item>
