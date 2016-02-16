@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:715761a2-b928-4cc7-9566-2d52e4b2acdc'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-02-16T09:33:33.249Z'
+dateModified: '2016-02-16T09:33:26.071Z'
 author: []
-datePublished: '2016-02-13T15:29:40.377Z'
-publisher:
-  domain: ''
-  name: ''
 title: Femårskalas. Han blev inte ett dugg klokare
-dateModified: '2016-02-13T15:27:17.030Z'
 sourcePath: _posts/2016-02-13-femarskalas-han-blev-inte-ett-dugg-klokare.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: femarskalas-han-blev-inte-ett-dugg-klokare/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Femårskalas. Han blev inte ett dugg klokare
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/270823cd-3f89-4af8-a3e0-fba9bb4e10f5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f6b09c0b584b2d9e2d9a9572b8b61f5b737c0a3.png)
